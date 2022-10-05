@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Research Assistant in the project named [List Curator](https://observablehq.com/@kasivisu4/list-curator-home-page?collection=@kasivisu4/list_curator)
 - 🌱 I’m currently learning Human Computer Interaction design principles that helps to create user effective products
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kasivisu4/) [Gmail](kasivisu3109@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kasivisu4/)
 
 [![@kasivisu3109's Holopin board](https://holopin.io/api/user/board?user=kasivisu3109)](https://holopin.io/@kasivisu3109)
 
