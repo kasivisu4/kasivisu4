@@ -4,9 +4,6 @@
 - 🌱 I’m currently learning Human Computer Interaction design principles that helps to create user effective products
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kasivisu4/)
 
-[![@kasivisu3109's Holopin board](https://holopin.io/api/user/board?user=kasivisu3109)](https://holopin.io/@kasivisu3109)
-
-
 <!--
 **kasivisu4/kasivisu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
