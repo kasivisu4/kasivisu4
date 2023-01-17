@@ -1,4 +1,6 @@
-### Hello 👋, I'm Kasi Viswanath doing my masters in Computer Science at Northeastern University, San Francisco
+### Hello 👋, I'm Kasi Viswanath 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+doing+my+masters+in+Computer+Science+at+Northeastern+University,+San+Francisco;I+like+Programming)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working as Research Assistant in the project named [List Curator](https://observablehq.com/@kasivisu4/list-curator-home-page?collection=@kasivisu4/list_curator)
 - 🌱 I’m currently learning Human Computer Interaction design principles that helps to create user effective products
