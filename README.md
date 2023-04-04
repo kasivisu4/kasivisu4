@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+doing+masters+in+CS+at+NEU;I'm+working+as+Research+Assistant;I'm+looking+for+summer'23+Internships)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working as Research Assistant in the project named [List Curator](https://observablehq.com/@kasivisu4/list-curator-home-page?collection=@kasivisu4/list_curator)
-- 🌱 I’m currently learning Human Computer Interaction design principles that helps to create user effective products
+- 🔭 I’m currently working as Research Assistant in benchmarking [In Browser Databases](https://observablehq.com/d/dc562520a7fa44d0?collection=@kasivisu4/data-processing-benchmark)
+-  I'm open source contributor for the [start's foundation](https://github.com/yianan261/StartsFoundation)
+- 🌱 I’m currently pursing Master's in Computer Scienct at Northeastern University, San Francisco, CA.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kasivisu4/)
 - [Resume](https://github.com/kasivisu4/kasivisu4/blob/main/Kasi_Viswanath_Vandanapu_Resume.pdf)
 
