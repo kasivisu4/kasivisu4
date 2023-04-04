@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as Research Assistant in benchmarking [In Browser Databases](https://observablehq.com/d/dc562520a7fa44d0?collection=@kasivisu4/data-processing-benchmark)
 -  I'm working on devloping the web application for the [start's foundation](https://github.com/yianan261/StartsFoundation) using Gatsby and Sanity studio
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kasivisu4/)
-- [Resume](https://raw.githubusercontent.com/kasivisu4/kasivisu4/main/Kasi_Viswanath_Vandanapu_Resume.pdf)
+- [Resume](https://raw.githubusercontent.com/kasivisu4/kasivisu4/main/Kasi_Resume.pdf)
 
 <!--
 **kasivisu4/kasivisu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
